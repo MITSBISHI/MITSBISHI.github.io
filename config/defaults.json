@@ -3,10 +3,10 @@
   "timeFormat": "12",
   "language": "en",
   "themeMode": "auto",
-  "useLocationForTheme": true,
-  "touchMode": true,
+  "useLocationForTheme": false,
+  "touchMode": false,
   "tvMode": false,
   "showSeconds": false,
   "showTimeOfDay": true,
-  "settingsLocked": true
+  "settingsLocked": false
 }
