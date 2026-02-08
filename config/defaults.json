@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "timeFormat": "12",
+  "language": "en",
+  "themeMode": "auto",
+  "useLocationForTheme": true,
+  "touchMode": true,
+  "tvMode": false,
+  "showSeconds": false,
+  "showTimeOfDay": true,
+  "settingsLocked": true
+}
